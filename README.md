@@ -1,16 +1,11 @@
-# hymn_book
+# hymn_app
 
-A new Flutter project.
+A Flutter project.
 
+<img src="https://github.com/Leo-Development/Nyimbo_za_Ekelezia/assets/160739845/e82983a2-5ca9-46a2-8d8f-d449156b1c94" width="200" height="200">
+<img src="https://github.com/Leo-Development/Nyimbo_za_Ekelezia/assets/160739845/7f1bcd42-8bcf-4e2a-b109-dea1bff9b707" width="200" height="200">
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a hymn app named Nyimbo Za Ekelezia. Its written using flutter and dart
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
